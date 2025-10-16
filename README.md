@@ -1,3 +1,3 @@
 # MyFirstRepository
 This is my first repository
-Computer Science
+Computer Science 2 
